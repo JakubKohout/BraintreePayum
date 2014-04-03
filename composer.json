@@ -1,0 +1,14 @@
+{
+    "name": "jakubkohout/payum-braintree",
+    "description": "Extension for Payum which add support for braintree payment gateway",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Jakub Kohout",
+            "email": "jakub@eastbiz.com"
+        }
+    ],
+    "require": {
+
+    }
+}
